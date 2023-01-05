@@ -2,7 +2,7 @@
 
 <a href="" target="blank"><img align="center" src="https://github.com/eursamajor/eursamajor/blob/8837061f7782f3f19032a62045c993ec5458e50f/Cat%20Animation%20by%20WhitePsych5%20on%20DeviantArt.gif" height="300" /></a>
 
-I am currently learning C++ and python at Telkom University. I am fast learner, good at communicating, and could do basic English. She/Her. An ESTP..... Everyday, I try to learn something new because I think that's everyone should do.
+I am currently learning C++ and python at Telkom University. I am fast learner, good at communicating, and could do basic English. She/Her. An ESTP and part of Slytherin. Everyday, I try to learn something new because I think that's everyone should do.
 
 ### Find me on:
 <p align="left">
