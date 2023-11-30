@@ -7,7 +7,7 @@ I am currently learning C++ and python at Telkom University. I am fast learner, 
 ### Find me on:
 <p align="left">
 <a href="https://twitter.com/ancientaIe" target="blank"><img align="center" src="https://github.com/eursamajor/eursamajor/blob/a20248ae0f609f3511ac38ace5f63bf2d8a6b6d1/R%20(1).png" title = "Twitter" alt="" height="30" /></a>
-<a href="[https://linkedin.com/in/eursamajor](https://www.linkedin.com/in/eursamajor/)" target="blank"><img align="center" src="https://github.com/eursamajor/eursamajor/blob/a20248ae0f609f3511ac38ace5f63bf2d8a6b6d1/linkedin-n.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/eursamajor" target="blank"><img align="center" src="https://github.com/eursamajor/eursamajor/blob/a20248ae0f609f3511ac38ace5f63bf2d8a6b6d1/linkedin-n.png" title = "Twitter" alt="" height="30" /></a>
 <!--
 **eursamajor/eursamajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
