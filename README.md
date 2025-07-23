@@ -14,7 +14,6 @@ I'm a fast learner, a strong communicator, and passionate about leveraging data 
 
 ### Find me on:
 <p align="left">
-<a href="https://twitter.com/ancientaIe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ancientaIe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/eursamajor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eursamajor" height="30" width="40" /></a>
 </p>
 <!--
